@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test Suitmedia</string>
+    <string name="icPhoto"> IC Photo </string>
+    <string name="check">Check</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">Username</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="name">Name</string>
+    <string name="selected_username">Selected Username</string>
+    <string name="chooseUser">Choose User</string>
+    <string name="Photo">Photo</string>
+    <string name="next">Next</string>
+    <string name="retry">Coba Lagi</string>
+</resources>
